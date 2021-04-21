@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @santhoshdm07
 - 👀 I’m interested in Deep Learning
 - 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...ML and DL projects
+- 🕶 I’m looking to collaborate on ...ML and DL projects
 - 📫 How to reach me .. @  santhosh801dm@gmail.com 
 
 <!---
